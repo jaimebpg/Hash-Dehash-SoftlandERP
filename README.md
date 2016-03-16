@@ -1,6 +1,8 @@
 Hash-Dehash-SoftlandERP
 ======
 
+###Función hash e inversa para contraseñas almacenadas en la Base de datos de softlandERP Chile 
+
 
 ## Uso
 La función *get_hash()* espera un string de 1 a 10 caracteres y devuelve un hash en formato hexadecimal.
