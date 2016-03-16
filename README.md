@@ -11,7 +11,7 @@ La función *get_password()* espera el hash como un string de un numero hexadeci
 
 ```get_password("0x083436383A3C37393B65") => "12345678"```
 
-## Ejemplos
+## comandos Útiles
 
 Obtención del hash para el usuario dummy en la empresa de nombre EMPRESA con microsoft sql server.
 
